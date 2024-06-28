@@ -5,7 +5,7 @@ This case study simulates the real-world experience of a junior data analyst at 
 
 Throughout this process, we will adhere to industry best practices for data handling and analysis, ensuring the accuracy, reliability, and actionable nature of our findings.
 ### Quick links:
-Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) [accessed on 04/03/23]  
+Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html) 
   
 SQL Queries:  
 [01. Data Combining](https://github.com/chooranBaba/Cyclistic-Case-Study-Google-Data-Analytics-Certificate/blob/50bdb9f9059f6310142010ffd9804f51c008664e/01.%20Data%20Combining.sql)  
